@@ -1,0 +1,14 @@
+<?php
+
+return  [
+    'tweeter' => [
+        'consumer_key' => [
+            'key'    => '',
+            'secret' => '',
+        ],
+        'access_token' => [
+            'token'  => '',
+            'secret' => '',
+        ]
+    ]
+];
