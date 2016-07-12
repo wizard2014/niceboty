@@ -10,5 +10,13 @@ return  [
             'token'  => '',
             'secret' => '',
         ]
-    ]
+    ],
+    'monkeylearn' => [
+        'token' => '',
+    ],
+    'db' => [
+        'dbname'   => '',
+        'username' => '',
+        'password' => '',
+    ],
 ];

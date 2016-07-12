@@ -1,5 +1,6 @@
 {
     "require": {
-        "jublonet/codebird-php": "^3.1"
+        "jublonet/codebird-php": "^3.1",
+        "monkeylearn/monkeylearn-php": "^0.3.0"
     }
 }
